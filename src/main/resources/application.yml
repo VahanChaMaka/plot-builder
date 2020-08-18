@@ -1,0 +1,7 @@
+spring:
+  main:
+    web-application-type: none
+
+wolframalpha:
+  url: http://api.wolframalpha.com/v2/query?appid={appid}&input={input}
+  id: VP43UJ-6X28EKG5J7
